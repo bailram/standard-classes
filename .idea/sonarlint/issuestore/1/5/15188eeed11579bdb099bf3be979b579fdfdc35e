@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ ‘ˆüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Éáğè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢»ˆ‘üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ò°8
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(üÀïÎ8ÜÀºû/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(«8ûÁºû/
+b
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(´ä™D
+i
+java:S2095!"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÍŸê øÿÿÿÿ
